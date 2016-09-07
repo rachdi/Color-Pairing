@@ -1,0 +1,18 @@
+h1
+{
+    color: blue;
+    border: 4px blue solid ;
+    padding: 25px ;
+    text-align: center;
+}
+h2
+{
+    color: red ;
+   text-align: center;
+}
+body {background: silver}
+
+img {
+width:1520px;
+ width:100%;
+}
