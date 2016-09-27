@@ -1,0 +1,104 @@
+
+body 
+	{background-color: #FEBFD2 ; 
+		padding: 40px;
+	overflow-x: hidden; /* For Opera */
+	-webkit-box-shadow:
+		inset #19d4ff 0 0 0 5px,
+		inset #18cdf7 0 0 0 1px,
+		inset #53dfff 0 0 0 10px,
+		inset #50d8f7 0 0 0 11px,
+		inset #8ce9ff 0 0 0 16px,
+		inset #88e2f7 0 0 0 17px,
+		inset #c5f4ff 0 0 0 22px,
+		inset #bfecf7 0 0 0 23px;
+	-moz-box-shadow:
+		inset #19d4ff 0 0 0 5px,
+		inset #18cdf7 0 0 0 1px,
+		inset #53dfff 0 0 0 10px,
+		inset #50d8f7 0 0 0 11px,
+		inset #8ce9ff 0 0 0 16px,
+		inset #88e2f7 0 0 0 17px,
+		inset #c5f4ff 0 0 0 22px,
+		inset #bfecf7 0 0 0 23px;
+	box-shadow:
+		inset #19d4ff 0 0 0 5px,
+		inset #18cdf7 0 0 0 1px,
+		inset #53dfff 0 0 0 10px,
+		inset #50d8f7 0 0 0 11px,
+		inset #8ce9ff 0 0 0 16px,
+		inset #88e2f7 0 0 0 17px,
+		inset #c5f4ff 0 0 0 22px,
+		inset #bfecf7 0 0 0 23px;
+		
+		
+			}
+
+
+.objectif h3 {
+	text-shadow: 5px 0px 2px white ;
+	background-color: #218380;
+	font-size: 50px;
+	font-style: oblique;
+	text-align: center;
+}
+.tete{
+	font-style: italic;
+	border-radius: 100px;
+	margin-right:170px;
+	margin-right: 500px;
+	text-shadow: 5px 0px 2px white ;
+}
+.formation h2 , .experience h2 , .hobbie h2{
+text-align: center;
+background-color: #f9320c;
+text-transform: capitalize ;
+text-shadow: 5px 0px 2px white ;
+}
+.experience li , .ecole li ,.hobbie li , .speak p {
+	padding: 0 30px 0 0 ;
+	text-align: center ;
+	position: relative;
+	top: 0;
+	box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 2px #816F47;
+	display: inline-block;
+	width: 200px;
+	margin: 0 10px;
+	padding: 5px;
+	box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 3px #816F47;
+	 
+	
+}
+.ecole li{
+	padding: 10 px 10 px 10px 10;
+}
+.hobbie{
+	text-align: center;
+	position: relative;
+	top: 0;
+	box-shadow: 0 0 65px #CDBE9F inset, 0 0 20px #BEAE8C inset, 0 0 2px #816F47;
+
+}
+.formation img{
+border-radius: 75%;
+
+
+}
+.tete img{
+text-shadow: 5px 0px 2px white ;
+	position:absolute;
+ 	top:30px;
+ 	right:30px;
+ 	width:200px;
+}
+.langue{
+	display: flex;
+ 
+
+}
+.francais img,.arabe img, .anglais img ,.russe img{
+	border-radius: 100px;
+width:100px;
+height:100px;
+padding:0 120px 0 120px;
+}
